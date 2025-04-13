@@ -1,12 +1,12 @@
 export const config = {
   site: {
-    title: "Nextjs Blog Template",
-    name: "Nextjs Blog Template",
-    description: "Nextjs Blog Template",
-    keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
-    url: "https://xxx.com",
-    baseUrl: "https://xxx.com",
-    image: "https://xxx.com/og-image.png",
+    title: "Keep Moving",
+    name: "Keep Moving",
+    description: "Keep Moving",
+    keywords: ["AI", "Full Stack Developer"],
+    url: "https://nextjs-blog-template-six-phi.vercel.app",
+    baseUrl: "https://nextjs-blog-template-six-phi.vercel.app",
+    image: "https://nextjs-blog-template-six-phi.vercel.app/og-image.png",
     favicon: {
       ico: "/favicon.ico",
       png: "/favicon.png",
@@ -25,12 +25,12 @@ export const config = {
     },
   },
   author: {
-    name: "Your Name",
-    email: "your.email@example.com",
-    bio: "这是一个 Nextjs 博客模板",
+    name: "Xiaochai",
+    email: "ucascyl@gmail.com",
+    bio: "多读书多看报，少吃零食多睡觉",
   },
   social: {
-    github: "https://github.com/xxx",
+    github: "https://github.com/cyl-ly",
     x: "https://x.com/xxx",
     xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
     wechat: "https://storage.xxx.com/images/wechat-official-account.png",
@@ -50,7 +50,7 @@ export const config = {
     ],
   },
   seo: {
-    metadataBase: new URL("https://xxx.com"),
+    metadataBase: new URL("https://nextjs-blog-template-six-phi.vercel.app"),
     alternates: {
       canonical: './',
     },
